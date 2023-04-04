@@ -1,0 +1,17 @@
+:root {
+  --primary: #64748B;
+  --secondry: #118ab2;
+}
+
+.container {
+  background-color: #64748B;
+  padding: 1rem;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+}
+
+.footer__title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
